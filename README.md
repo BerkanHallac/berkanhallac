@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-end<br>💻  I am currently working at Yapıdrom Teknoloji as a software developer, where I am responsible for building and maintaining web applications.<br>🤝 I’m looking for help with improving my coding skills and learning new frontend frameworks.<br>🌱 I'm currently learning ReactJS and Sass to enhance my frontend development skills.<br>💬 You can ask me about my experience with various frontend technologies such as HTML, CSS, JavaScript, and ReactJS.<br>⚡ Fun fact: I love to design and develop websites and applications with clean and elegant user interfaces that provide a seamless user experience.
+💻  I am currently working at Yapıdrom Teknoloji as a software developer, where I am responsible for building and maintaining web applications.<br>🤝 I’m looking for help with improving my coding skills and learning new frontend frameworks.<br>🌱 I'm currently learning ReactJS and Sass to enhance my frontend development skills.<br>💬 You can ask me about my experience with various frontend technologies such as HTML, CSS, JavaScript, and ReactJS.<br>⚡ Fun fact: I love to design and develop websites and applications with clean and elegant user interfaces that provide a seamless user experience.
 
 
 ## 🌐 Socials:
